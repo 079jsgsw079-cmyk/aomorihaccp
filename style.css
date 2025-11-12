@@ -213,7 +213,9 @@ header h1 {
   header { margin-bottom:1rem; }
   header h1 { color:#000 !important; }
   #record-table, #plan-area { page-break-inside:avoid; }
-   /* === お知らせバナー === */
+ 
+}
+  /* === お知らせバナー === */
 #announcement-banner {
   background-color: #e0f2fe;
   border: 1px solid #7dd3fc;
@@ -236,5 +238,4 @@ header h1 {
   margin-left: 0.75rem;
   font-size: 0.9rem;
   line-height: 1.4;
-}
 }
